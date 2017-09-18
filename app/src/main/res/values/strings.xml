@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fuhrer</string>
+    <string name="mensagem_1">Bem Vindo!</string>
+    <string name="mensagem_2">Digite seu nome</string>
+</resources>
