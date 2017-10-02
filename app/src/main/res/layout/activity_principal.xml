@@ -22,20 +22,23 @@
             app:layout_scrollFlags="scroll|enterAlways"
             app:tabMode="scrollable">
 
+            <!-- Criar uma classe para esta tab Principal Obs: Por hora vamos deixar os nomes das tabs-->
             <android.support.design.widget.TabItem
-                android:id="@+id/tab1"
+                android:id="@+id/tabprincipal"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
                 android:text="Principal" />
 
+            <!-- Criar uma classe para esta tab Notas Obs: Por hora vamos deixar os nomes das tabs-->
             <android.support.design.widget.TabItem
-                android:id="@+id/tab2"
+                android:id="@+id/tabnotas"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
                 android:text="Notas" />
 
+            <!-- Criar uma classe para esta tab Lembretes Obs: Por hora vamos deixar os nomes das tabs-->
             <android.support.design.widget.TabItem
-                android:id="@+id/tab3"
+                android:id="@+id/tablembretes"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
                 android:text="Lembretes" />

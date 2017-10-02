@@ -25,9 +25,18 @@ public class Principal extends AppCompatActivity {
             }
         });
 
-        TabLayout Tab1 = (TabLayout) findViewById(R.id.tab1);
+
+        /*  AQUI VAI O CÓDIGO DE ACESSO PARA AS TRÊS TABS
+
+
+        Criar um projeto do tipo App tab e aprender como funciona as funções com o manifesto e tal e depois tentar aplicar no aplicativo*/
 
     }
 }
 
+
+
+//Bibliografia consultada
 //https://www.journaldev.com/10318/android-floating-action-button-example-tutorial
+//http://www.truiton.com/2015/06/android-tabs-example-fragments-viewpager/
+//https://www.youtube.com/watch?v=00LLd7qr9sA
