@@ -3,9 +3,9 @@
     <string name="mensagem_0">Welcome to Führer!</string>
     <string name="mensagem_1">Bem Vindo!</string>
     <string name="mensagem_2">Digite seu nome</string>
-    <string name = "mensagem_3">Lembretes</string>
-    <string name = "mensagem_4">Notas</string>
-    <string name =  "mensagem_5">Arquivos</string>>
-    <string name =  "mensagem_6">Testaf</string>>
+    <string name="mensagem_3">Lembretes</string>
+    <string name="mensagem_4">Notas</string>
+    <string name="mensagem_5">Arquivos</string>>
+    <string name="mensagem_6">Testaf</string>>
 
 </resources>
